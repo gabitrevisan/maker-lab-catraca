@@ -28,7 +28,7 @@ Muitos sistemas de biometria facial falham porque o rosto do usuário apresenta 
 ## 📸 Demonstração do Impacto
 O sistema resolve o problema de falha no reconhecimento facial causado por sombras ou luz de fundo excessiva. 
 
-![Antes e Depois da Iluminação Adaptativa](assets/antes-depois.png)
+![Antes e Depois da Iluminação Adaptativa](assets/antes-depois.jpg)
 *Esquerda: Ambiente escuro dificultando a detecção facial. Direita: Rosto iluminado e acesso liberado após ativação do sensor.*
 
 ---
